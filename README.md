@@ -17,7 +17,7 @@ MySQL or other supported database server
 git clone [https://github.com/username/project-name.git]
 Change into the project directory:
 
-cd project-name
+cd project-name   (change directory) 
 **Install project dependencies:**
 composer install
 
